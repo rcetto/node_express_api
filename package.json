@@ -1,0 +1,25 @@
+{
+  "name": "node_express_api",
+  "version": "1.0.0",
+  "description": "Javascript Mastery - Video Node Express API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcetto/node_express_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcetto/node_express_api/issues"
+  },
+  "homepage": "https://github.com/rcetto/node_express_api#readme",
+  "dependencies": {
+    "epxress": "0.0.1-security",
+    "express": "^4.17.1"
+  }
+}

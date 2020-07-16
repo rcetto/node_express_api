@@ -1,3 +1,6 @@
+// en las routes solo tenemos las llamadas a las funciones que estaran 
+// en los controladores
+
 import express from 'express';
 
 import { getUsers, createUser, getUser, deleteUser, updateUser } from '../controllers/users.js';
